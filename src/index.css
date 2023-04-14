@@ -5,10 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(C:\Users\pc\Desktop\food1.jpg);
-  background-position:center;
-  background-attachment: fixed;
+  background-color: rgb(35, 83, 83);
+  background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 code {
